@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<obstacle>
+    <type>airplane</type>
+    <name>Airbus ACJ318</name>
+    <height>12.56</height>
+    <blastAllowance>500</blastAllowance>
+    <position>
+        <distanceFromCentre>0</distanceFromCentre>
+        <distance0>0</distance0>
+        <distance1>0</distance1>
+    </position>
+    <dimensions>
+        <width>35.8</width>
+        <length>31.45</length>
+    </dimensions>
+</obstacle>

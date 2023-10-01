@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<obstacle>
+	<type>airplane</type>
+	<name>Boeing 747-400</name>
+	<height>19.4</height>
+	<blastAllowance>500</blastAllowance>
+	<position>
+		<distanceFromCentre>0</distanceFromCentre>
+		<distance0>0</distance0>
+		<distance1>0</distance1>
+	</position>
+	<dimensions>
+		<width>64.44</width>
+		<length>70.66</length>
+	</dimensions>
+</obstacle>

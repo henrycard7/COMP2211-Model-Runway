@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<airport>
+	<identifiers>
+		<name>London Heathrow</name>
+	</identifiers>
+	<runwayStrips amount="2">
+		<runwayStrip>
+			<direction>09L/27R</direction>
+			<length>3902</length>
+			<resa>240</resa>
+			<clearedGradedArea>
+				<centerlineToClearedMax>105</centerlineToClearedMax>
+				<centerlineToClearedMin>75</centerlineToClearedMin>
+				<clearedEndMin>150</clearedEndMin>
+				<clearedEndMax>300</clearedEndMax>
+			</clearedGradedArea>
+			<runways>
+				<runway>
+					<designator>09L</designator>
+					<tora>3902</tora>
+					<toda>3902</toda>
+					<asda>3902</asda>
+					<lda>3595</lda>
+					<threshold>309</threshold>
+				</runway>
+				<runway>
+					<designator>27R</designator>
+					<tora>3884</tora>
+					<toda>3962</toda>
+					<asda>3884</asda>
+					<lda>3884</lda>
+					<threshold>0</threshold>
+				</runway>
+			</runways>
+		</runwayStrip>
+		<runwayStrip>
+			<direction>09R/27L</direction>
+			<length>3660</length>
+			<resa>240</resa>
+			<clearedGradedArea>
+				<centerlineToClearedMax>105</centerlineToClearedMax>
+				<centerlineToClearedMin>75</centerlineToClearedMin>
+				<clearedEndMin>150</clearedEndMin>
+				<clearedEndMax>300</clearedEndMax>
+			</clearedGradedArea>
+			<runways>
+				<runway>
+					<designator>09R</designator>
+					<tora>3660</tora>
+					<toda>3660</toda>
+					<asda>3660</asda>
+					<lda>3353</lda>
+					<threshold>308</threshold>
+				</runway>
+				<runway>
+					<designator>27L</designator>
+					<tora>3660</tora>
+					<toda>3660</toda>
+					<asda>3660</asda>
+					<lda>3660</lda>
+					<threshold>0</threshold>
+				</runway>
+			</runways>
+		</runwayStrip>
+	</runwayStrips>
+</airport>

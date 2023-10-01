@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<obstacle>
+	<type>fod</type>
+	<name>Large Vehicle</name>
+	<height>7</height>
+	<blastAllowance>500</blastAllowance>
+	<position>
+		<distanceFromCentre>0</distanceFromCentre>
+		<distance0>0</distance0>
+		<distance1>0</distance1>
+	</position>
+	<dimensions>
+		<width>8</width>
+		<length>11</length>
+	</dimensions>
+</obstacle>

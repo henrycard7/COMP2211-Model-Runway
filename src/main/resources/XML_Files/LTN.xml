@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<airport>
+    <identifiers>
+        <name>London Luton</name>
+    </identifiers>
+    <runwayStrips amount="1">
+        <runwayStrip>
+            <direction>07/25</direction>
+            <length>2162</length>
+            <resa>240</resa>
+            <clearedGradedArea>
+                <centerlineToClearedMax>105</centerlineToClearedMax>
+                <centerlineToClearedMin>75</centerlineToClearedMin>
+                <clearedEndMin>150</clearedEndMin>
+                <clearedEndMax>300</clearedEndMax>
+            </clearedGradedArea>
+            <runways>
+                <runway>
+                    <designator>07</designator>
+                    <tora>2162</tora>
+                    <toda>2222</toda>
+                    <asda>2162</asda>
+                    <lda>2162</lda>
+                    <threshold>0</threshold>
+                </runway>
+                <runway>
+                    <designator>25</designator>
+                    <tora>2080</tora>
+                    <toda>2140</toda>
+                    <asda>2140</asda>
+                    <lda>2080</lda>
+                    <threshold>82</threshold>
+                </runway>
+            </runways>
+        </runwayStrip>
+    </runwayStrips>
+</airport>
